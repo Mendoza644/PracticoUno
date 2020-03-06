@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practico Uno</string>
+    <string name="id_employee">Código del empleado</string>
+    <string name="btn_total">Calcular Líquido</string>
+    <string name="name_employee">Nombre del Empleado</string>
+    <string name="hours_employee">Horas trabajadas</string>
+    <string name="wage_employee">Salario</string>
+    <string name="require_text">Campo Requerido</string>
+    <string name="not_zero">Solo números mayores o iguales a uno</string>
+    <string name="total_isss">Total ISSS</string>
+    <string name="total_afp">Total AFP</string>
+    <string name="total_isr">Total ISR</string>
+    <string name="base_wage">Salario Base</string>
+    <string name="net_wage">Salario Neto</string>
+</resources>
